@@ -104,7 +104,7 @@ const Header = () => {
           <SideMenu />
         </div>
 
-        <div className="grid grid-cols-12 col-span-12 sm:col-span-8 md:col-span-8 ms-5 relative lg:top-[-50px] ">
+        <div className="grid grid-cols-12 col-span-12 sm:col-span-8 md:col-span-8 lg:ms-5 relative lg:top-[-50px] ">
           <div className="col-span-12 flex items-center justify-between lg:ms-15 ">
             <ul className="flex md:flex-wrap items-center justify-center gap-3 sm:gap-5 text-[10px] md:text-sm text-primary z-10 mt-5 lg:mt-0">
               {tabItems.map((title, index) => (
