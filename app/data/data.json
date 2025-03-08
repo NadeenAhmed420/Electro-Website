@@ -1,0 +1,178 @@
+{
+  "recentlyViewed": [
+    {
+      "title": "GameConsole ",
+      "description": "Limited edition gaming console with Destiny design.",
+      "image": "/product-1.jpeg",
+      "price": 789,
+      "oldPrice": 999
+    },
+    {
+      "title": "Accessories",
+      "description": "Compact and portable power bank with 1130 mAh capacity.",
+      "image": "/product-2.jpg",
+      "price": 103,
+      "oldPrice": 149
+    },
+    {
+      "title": "Laptop",
+      "description": "High-performance laptop with a 15.6-inch display.",
+      "image": "/product-3.png",
+      "price": 1999,
+      "oldPrice": 2499
+    },
+    {
+      "title": "Smartphone",
+      "description": "Premium smartphone with 32GB storage and LTE connectivity.",
+      "image": "/product-4.jpeg",
+      "price": 1300,
+      "oldPrice": 1599
+    },
+    {
+      "title": "Smartwatch",
+      "description": "Smartwatch with LTE and WiFi support.",
+      "image": "/product-5.jpeg",
+      "price": 129,
+      "oldPrice": 179
+    },
+    {
+      "title": "Camera",
+      "description": "Waterproof 4K action camera for high-quality recording.",
+      "image": "/product-7.jpeg",
+      "price": 590,
+      "oldPrice": 699
+    },
+    {
+      "title": "Laptop",
+      "description": "High-performance laptop with a 15.6-inch display.",
+      "image": "/product-3.png",
+      "price": 1999,
+      "oldPrice": 2499
+    },
+    {
+      "title": "GameConsole ",
+      "description": "Limited edition gaming console with Destiny design.",
+      "image": "/product-1.jpeg",
+      "price": 789,
+      "oldPrice": 999
+    }
+  ],
+  "bestSellers": [
+    {
+      "title": "GameConsole ",
+      "description": "Limited edition gaming console with Destiny design.",
+      "image": "/product-1.jpeg",
+      "price": 789,
+      "oldPrice": 1000
+    },
+    {
+      "title": "Accessories",
+      "description": "Compact and portable power bank with 1130 mAh capacity.",
+      "image": "/product-9.jpeg",
+      "price": 130,
+      "oldPrice": 200
+    },
+    {
+      "title": "Laptop",
+      "description": "High-performance laptop with a 15.6-inch display.",
+      "image": "/product-2.jpg",
+      "price": 1999,
+      "oldPrice": 2300
+    },
+    {
+      "title": "Smartphone",
+      "description": "Premium smartphone with 32GB storage and LTE connectivity.",
+      "image": "/product-8.jpeg",
+      "price": 1300,
+      "oldPrice": 1500
+    },
+    {
+      "title": "Smartwatch",
+      "description": "Smartwatch with LTE and WiFi support.",
+      "image": "/product-5.jpeg",
+      "price": 129,
+      "oldPrice": 180
+    },
+    {
+      "title": "Smartwatch",
+      "description": "Smartwatch with LTE and WiFi support.",
+      "image": "/product-6.jpg",
+      "price": 129,
+      "oldPrice": 176
+    }
+  ],
+  "offers": [
+    {
+      "title": "GameConsole ",
+      "description": "Limited edition gaming console with Destiny design.",
+      "image": "/product-1.jpeg",
+      "price": 789,
+      "oldPrice": 1000
+    },
+    {
+      "title": "Accessories",
+      "description": "Compact and portable power bank with 1130 mAh capacity.",
+      "image": "/product-5.jpeg",
+      "price": 130,
+      "oldPrice": 200
+    },
+    {
+      "title": "Laptop",
+      "description": "High-performance laptop with a 15.6-inch display.",
+      "image": "/product-7.jpeg",
+      "price": 1999,
+      "oldPrice": 2300
+    },
+    {
+      "title": "Smartphone",
+      "description": "Premium smartphone with 32GB storage and LTE connectivity.",
+      "image": "/product-8.jpeg",
+      "price": 1300,
+      "oldPrice": 1500
+    },
+    {
+      "title": "Smartwatch",
+      "description": "Smartwatch with LTE and WiFi support.",
+      "image": "/product-2.jpg",
+      "price": 129,
+      "oldPrice": 180
+    },
+    {
+      "title": "Accessories",
+      "description": "Compact and portable power bank with 1130 mAh capacity.",
+      "image": "/product-3.png",
+      "price": 130,
+      "oldPrice": 200
+    }
+  ],
+  "deals": [
+    {
+      "title": "GameConsole ",
+      "description": "Limited edition gaming console with Destiny design.",
+      "image": "/product-4.jpeg",
+      "price": 789,
+      "oldPrice": 1000
+    },
+    {
+      "title": "Accessories",
+      "description": "Compact and portable power bank with 1130 mAh capacity.",
+      "image": "/product-2.jpg",
+      "price": 130,
+      "oldPrice": 200
+    },
+    {
+      "title": "Laptop",
+      "description": "High-performance laptop with a 15.6-inch display.",
+      "image": "/product-7.jpeg",
+      "price": 1999,
+      "oldPrice": 2300
+    },
+    {
+      "title": "Smartphone",
+      "description": "Premium smartphone with 32GB storage and LTE connectivity.",
+      "image": "/product-9.jpeg",
+      "price": 1300,
+      "oldPrice": 1500
+    }
+  ]
+}

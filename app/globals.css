@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-open-sans);
+  --font-open-sans: "Open Sans", sans-serif;
+  --color-primary: #343e48;
+  --color-secondary: #fed700;
+  --color-info: #3f69a7;
+  --color-error: #3f69a7;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-open-sans);
+}
+
+
+/* ------------------------- */
+
+/* Buttons of card swiper */
+.card-buttons {
+  position: relative;
+  top: -1.5rem;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999999;
+  padding-inline: 2px;
+}
+
+.swiper-slide {
+  display: flex !important;
+}
